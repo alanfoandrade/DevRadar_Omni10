@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@rocketseat/unform": "^1.5.1",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "customize-cra": "^0.2.14",
     "date-fns": "^2.0.0-beta.2",
     "date-fns-tz": "^1.0.7",
